@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @canion3d
-- 👀 I’m interested in Blockchain, Smart Contracts, Solidity, Python, and more!
-- 🌱 I’m currently learning Python, Solidity, JavaScript
-- 💞️ I’m looking to collaborate on Blockchain projects of any size and type.
+- 👀 I’m interested in AI, LLM, Blockchain, Smart Contracts, Solidity, Python, and more!
+- 🌱 I’m currently learning Python, Solidity, JavaScript, LLM
+- 💞️ I’m looking to collaborate on Blockchain, AI, and LLM projects of any size and type.
 - 📫 How to reach me info@canion3d.com
 
 <!---
